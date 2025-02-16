@@ -359,5 +359,43 @@
             "Deployment"
         ],
         "imageUrl": "/images/posts/aws-deployment.jpg"
+    },
+    {
+        "id": "19",
+        "title": "Deploying a Web Application to AWS",
+        "slug": "deploying-a-web-application-to-aws",
+        "content": "AWS provides a wide array of services for deploying and hosting web applications. This guide covers the basics of deploying your app to AWS...",
+        "author": {
+            "name": "Olivia Scott",
+            "image": "/images/authors/olivia_scott.jpg",
+            "role": "Cloud Architect"
+        },
+        "publishedAt": "2025-03-20",
+        "readingTime": "8 min read",
+        "tags": [
+            "AWS",
+            "Cloud",
+            "Deployment"
+        ],
+        "imageUrl": "/images/posts/aws-deployment.jpg"
+    },
+    {
+        "id": "20",
+        "title": "Deploying test",
+        "slug": "deploying-test",
+        "content": "AWS provides a wide array of services for deploying and hosting web applications. This guide covers the basics of deploying your app to AWS...",
+        "author": {
+            "name": "Olivia Scott",
+            "image": "/images/authors/olivia_scott.jpg",
+            "role": "Cloud Architect"
+        },
+        "publishedAt": "2025-03-20",
+        "readingTime": "8 min read",
+        "tags": [
+            "AWS",
+            "Cloud",
+            "Deployment"
+        ],
+        "imageUrl": "/images/posts/aws-deployment.jpg"
     }
 ]
