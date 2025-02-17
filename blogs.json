@@ -361,7 +361,7 @@
         "imageUrl": "/images/posts/aws-deployment.jpg"
     },
     {
-        "id": "19",
+        "id": "20",
         "title": "Deploying a Web Application to AWS",
         "slug": "deploying-a-web-application-to-aws",
         "content": "AWS provides a wide array of services for deploying and hosting web applications. This guide covers the basics of deploying your app to AWS...",
@@ -380,7 +380,7 @@
         "imageUrl": "/images/posts/aws-deployment.jpg"
     },
     {
-        "id": "20",
+        "id": "21",
         "title": "Deploying test",
         "slug": "deploying-test",
         "content": "AWS provides a wide array of services for deploying and hosting web applications. This guide covers the basics of deploying your app to AWS...",
