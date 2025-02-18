@@ -5,7 +5,8 @@
     "date": "2025-03-15",
     "location": "City Convention Center",
     "description": "Join us for our annual fundraising gala...",
-    "image": "/images/events/charity-gala.jpg"
+    "image": "/images/events/charity-gala.jpg",
+    "link": "https://www.google.com"
   },
   {
     "id": "2",
@@ -22,77 +23,5 @@
     "location": "Tech Hub Auditorium",
     "description": "Discover the latest trends and technologies.",
     "image": "/images/events/tech-expo.jpg"
-  },
-  {
-    "id": "4",
-    "title": "Health and Wellness Fair",
-    "date": "2025-06-05",
-    "location": "Community Health Center",
-    "description": "Explore resources for a healthier lifestyle.",
-    "image": "/images/events/health-fair.jpg"
-  },
-  {
-    "id": "5",
-    "title": "Summer Music Festival",
-    "date": "2025-07-15",
-    "location": "City Amphitheater",
-    "description": "Enjoy live performances from local and national artists.",
-    "image": "/images/events/music-festival.jpg"
-  },
-  {
-    "id": "6",
-    "title": "Back-to-School Drive",
-    "date": "2025-08-10",
-    "location": "Community Center",
-    "description": "Donate school supplies to support local students.",
-    "image": "/images/events/school-drive.jpg"
-  },
-  {
-    "id": "7",
-    "title": "Fall Harvest Festival",
-    "date": "2025-09-25",
-    "location": "Central Plaza",
-    "description": "Celebrate the season with food, fun, and activities.",
-    "image": "/images/events/harvest-festival.jpg"
-  },
-  {
-    "id": "8",
-    "title": "Winter Wonderland Market",
-    "date": "2025-12-05",
-    "location": "Town Square",
-    "description": "Shop for unique holiday gifts and enjoy festive treats.",
-    "image": "/images/events/winter-market.jpg"
-  },
-  {
-    "id": "9",
-    "title": "Local Authors Book Fair",
-    "date": "2025-03-30",
-    "location": "City Library",
-    "description": "Meet local authors and discover new reads.",
-    "image": "/images/events/book-fair.jpg"
-  },
-  {
-    "id": "10",
-    "title": "Outdoor Adventure Workshop",
-    "date": "2025-05-02",
-    "location": "Riverfront Park",
-    "description": "Learn essential outdoor skills from experts.",
-    "image": "/images/events/adventure-workshop.jpg"
-  },
-  {
-    "id": "11",
-    "title": "Art and Craft Exhibition",
-    "date": "2025-06-20",
-    "location": "Art Museum Gallery",
-    "description": "Explore stunning works from talented artists and craftsmen.",
-    "image": "/images/events/art-exhibition.jpg"
-  },
-  {
-    "id": "12",
-    "title": "Holiday Charity Run",
-    "date": "2025-12-15",
-    "location": "Lakeside Trail",
-    "description": "Run or walk to raise funds for a good cause.",
-    "image": "/images/events/charity-run.jpg"
   }
 ]
