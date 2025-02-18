@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "title": "Fires of Eternity",
+      "author": "Isabella Rose",
+      "genre": "Fantasy",
+      "published_year": 2023,
+      "image": "/images/books/fires-of-eternity.jpg",
+      "publishedAt": "2023-03-15",
+      "link": "https://www.amazon.com/fires-of-eternity"
+    },
+    {
+      "id": 2,
+      "title": "Whispers in the Wind",
+      "author": "Ethan Cross",
+      "genre": "Mystery",
+      "published_year": 2021,
+      "image": "/images/books/whispers-in-the-wind.jpg",
+      "publishedAt": "2021-08-20",
+      "link": "https://www.amazon.com/whispers-in-the-wind"
+    },
+    {
+      "id": 3,
+      "title": "Starlight Chronicles",
+      "author": "Sophia Reed",
+      "genre": "Science Fiction",
+      "published_year": 2020,
+      "image": "/images/books/starlight-chronicles.jpg",
+      "publishedAt": "2020-05-10",
+      "link": "https://www.amazon.com/starlight-chronicles"
+    },
+    {
+      "id": 4,
+      "title": "Echoes of the Past",
+      "author": "Liam Archer",
+      "genre": "Historical Fiction",
+      "published_year": 2019,
+      "image": "/images/books/echoes-of-the-past.jpg",
+      "publishedAt": "2019-12-01",
+      "link": "https://www.amazon.com/echoes-of-the-past"
+    },
+    {
+      "id": 5,
+      "title": "Rise of the Titans",
+      "author": "Olivia Black",
+      "genre": "Fantasy",
+      "published_year": 2022,
+      "image": "/images/books/rise-of-the-titans.jpg",
+      "publishedAt": "2022-07-15",
+      "link": "https://www.amazon.com/rise-of-the-titans"
+    },
+    {
+      "id": 6,
+      "title": "Shadows Beneath",
+      "author": "Aiden Fox",
+      "genre": "Thriller",
+      "published_year": 2023,
+      "image": "/images/books/shadows-beneath.jpg",
+      "publishedAt": "2023-01-22",
+      "link": "https://www.amazon.com/shadows-beneath"
+    },
+    {
+      "id": 7,
+      "title": "The Forgotten Island",
+      "author": "Emily Stone",
+      "genre": "Adventure",
+      "published_year": 2021,
+      "image": "/images/books/the-forgotten-island.jpg",
+      "publishedAt": "2021-04-18",
+      "link": "https://www.amazon.com/the-forgotten-island"
+    },
+    {
+      "id": 8,
+      "title": "Dreamcatcher Diaries",
+      "author": "Michael Carter",
+      "genre": "Romance",
+      "published_year": 2020,
+      "image": "/images/books/dreamcatcher-diaries.jpg",
+      "publishedAt": "2020-11-08",
+      "link": "https://www.amazon.com/dreamcatcher-diaries"
+    },
+    {
+      "id": 9,
+      "title": "The Crystal Labyrinth",
+      "author": "Charlotte Green",
+      "genre": "Fantasy",
+      "published_year": 2018,
+      "image": "/images/books/the-crystal-labyrinth.jpg",
+      "publishedAt": "2018-06-05",
+      "link": "https://www.amazon.com/the-crystal-labyrinth"
+    },
+    {
+      "id": 10,
+      "title": "Through the Ashes",
+      "author": "James Walker",
+      "genre": "Dystopian",
+      "published_year": 2022,
+      "image": "/images/books/through-the-ashes.jpg",
+      "publishedAt": "2022-09-30",
+      "link": "https://www.amazon.com/through-the-ashes"
+    },
+    {
+      "id": 11,
+      "title": "Waves of Serenity",
+      "author": "Hannah White",
+      "genre": "Contemporary Fiction",
+      "published_year": 2019,
+      "image": "/images/books/waves-of-serenity.jpg",
+      "publishedAt": "2019-03-21",
+      "link": "https://www.amazon.com/waves-of-serenity"
+    },
+    {
+      "id": 12,
+      "title": "Labyrinth of Lies",
+      "author": "Joshua Evans",
+      "genre": "Mystery",
+      "published_year": 2021,
+      "image": "/images/books/labyrinth-of-lies.jpg",
+      "publishedAt": "2021-10-12",
+      "link": "https://www.amazon.com/labyrinth-of-lies"
+    },
+    {
+      "id": 13,
+      "title": "Secrets of the Universe",
+      "author": "Grace Mitchell",
+      "genre": "Science Fiction",
+      "published_year": 2020,
+      "image": "/images/books/secrets-of-the-universe.jpg",
+      "publishedAt": "2020-02-14",
+      "link": "https://www.amazon.com/secrets-of-the-universe"
+    },
+    {
+      "id": 14,
+      "title": "The Final Ascent",
+      "author": "Andrew Bennett",
+      "genre": "Adventure",
+      "published_year": 2023,
+      "image": "/images/books/the-final-ascent.jpg",
+      "publishedAt": "2023-06-01",
+      "link": "https://www.amazon.com/the-final-ascent"
+    },
+    {
+      "id": 15,
+      "title": "Midnight Sonata",
+      "author": "Victoria Hart",
+      "genre": "Romance",
+      "published_year": 2017,
+      "image": "/images/books/midnight-sonata.jpg",
+      "publishedAt": "2017-11-11",
+      "link": "https://www.amazon.com/midnight-sonata"
+    },
+    {
+      "id": 16,
+      "title": "Echoes of Eternity",
+      "author": "Benjamin Parker",
+      "genre": "Fantasy",
+      "published_year": 2021,
+      "image": "/images/books/echoes-of-eternity.jpg",
+      "publishedAt": "2021-02-19",
+      "link": "https://www.amazon.com/echoes-of-eternity"
+    },
+    {
+      "id": 17,
+      "title": "The Lost Kingdom",
+      "author": "Natalie Moore",
+      "genre": "Historical Fiction",
+      "published_year": 2018,
+      "image": "/images/books/the-lost-kingdom.jpg",
+      "publishedAt": "2018-08-05",
+      "link": "https://www.amazon.com/the-lost-kingdom"
+    },
+    {
+      "id": 18,
+      "title": "Chronicles of a Wanderer",
+      "author": "Ryan Taylor",
+      "genre": "Travel",
+      "published_year": 2022,
+      "image": "/images/books/chronicles-of-a-wanderer.jpg",
+      "publishedAt": "2022-03-10",
+      "link": "https://www.amazon.com/chronicles-of-a-wanderer"
+    },
+    {
+      "id": 19,
+      "title": "Realm of Shadows",
+      "author": "Emma Davies",
+      "genre": "Thriller",
+      "published_year": 2023,
+      "image": "/images/books/realm-of-shadows.jpg",
+      "publishedAt": "2023-09-01",
+      "link": "https://www.amazon.com/realm-of-shadows"
+    },
+    {
+      "id": 20,
+      "title": "The Starborn Legacy",
+      "author": "Lucas Reed",
+      "genre": "Science Fiction",
+      "published_year": 2020,
+      "image": "/images/books/the-starborn-legacy.jpg",
+      "publishedAt": "2020-12-25",
+      "link": "https://www.amazon.com/the-starborn-legacy"
+    }
+  ]
+  
