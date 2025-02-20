@@ -383,7 +383,7 @@
         "id": "22",
         "title": "Exploring the Mountains",
         "slug": "exploring-the-mountains",
-        "content": "The mountains are a place of <strong>serenity</strong> and adventure. Many hikers visit to <a href='https://example.com/mountain-trails'>experience the trails</a> that span miles of breathtaking scenery. <br/> You can encounter stunning views, diverse wildlife, and moments of peace. <strong>Preparing</strong> for a mountain trek involves packing essential gear, understanding the weather, and knowing your limits. <br/> Don't forget to capture the memories with photos and share the experience with others!",
+        "content": "The mountains are a place of <strong>serenity</strong> and adventure. Many hikers visit to <a href='https://example.com/mountain-trails' target='_blank'>experience the trails</a> that span miles of breathtaking scenery. <br/> You can encounter stunning views, diverse wildlife, and moments of peace. <strong>Preparing</strong> for a mountain trek involves packing essential gear, understanding the weather, and knowing your limits. <br/> Don't forget to capture the memories with photos and share the experience with others!",
         "author": {
           "name": "John Doe",
           "image": "https://example.com/john-doe.jpg",
@@ -398,7 +398,7 @@
         "id": "23",
         "title": "The Secrets of Deep Sea Diving",
         "slug": "secrets-of-deep-sea-diving",
-        "content": "Deep sea diving is an extraordinary <strong>adventure</strong> that allows you to explore an underwater world. <a href='https://example.com/diving-basics'>Learn the basics</a> before diving into the ocean. <br/> The beauty of coral reefs, the tranquility of the deep, and encounters with marine life make it an unforgettable experience. <br/> Always follow safety guidelines and ensure you're trained to handle emergencies while diving. <strong>Never dive alone</strong> and cherish every dive!",
+        "content": "Deep sea diving is an extraordinary <strong>adventure</strong> that allows you to explore an underwater world. <a href='https://example.com/diving-basics' target='_blank'>Learn the basics</a> before diving into the ocean. <br/> The beauty of coral reefs, the tranquility of the deep, and encounters with marine life make it an unforgettable experience. <br/> Always follow safety guidelines and ensure you're trained to handle emergencies while diving. <strong>Never dive alone</strong> and cherish every dive!",
         "author": {
           "name": "Jane Smith",
           "image": "https://example.com/jane-smith.jpg",
@@ -413,7 +413,7 @@
         "id": "24",
         "title": "Mastering the Art of Photography",
         "slug": "mastering-art-photography",
-        "content": "Photography is both an art and a science. It requires <strong>creativity</strong>, technical skills, and a keen eye for detail. <a href='https://example.com/photography-tips'>Discover tips</a> to enhance your skills and capture stunning images. <br/> From landscapes to portraits, every shot tells a story. Experiment with different angles, lighting, and settings to bring your vision to life. <strong>Practice</strong> makes perfect, so don't shy away from taking lots of photos!",
+        "content": "Photography is both an art and a science. It requires <strong>creativity</strong>, technical skills, and a keen eye for detail. <a href='https://example.com/photography-tips' target='_blank'>Discover tips</a> to enhance your skills and capture stunning images. <br/> From landscapes to portraits, every shot tells a story. Experiment with different angles, lighting, and settings to bring your vision to life. <strong>Practice</strong> makes perfect, so don't shy away from taking lots of photos!",
         "author": {
           "name": "Emily Clarke",
           "image": "https://example.com/emily-clarke.jpg",
@@ -428,7 +428,7 @@
         "id": "25",
         "title": "Healthy Eating Habits for a Busy Life",
         "slug": "healthy-eating-habits",
-        "content": "Maintaining healthy eating habits is crucial for a <strong>balanced lifestyle</strong>. Even with a busy schedule, you can make time for nutritious meals. <a href='https://example.com/healthy-recipes'>Try these recipes</a> that are both quick and delicious. <br/> Focus on whole grains, fresh fruits, and lean proteins. Plan your meals ahead to avoid unhealthy choices. <strong>Consistency</strong> is key to achieving your health goals!",
+        "content": "Maintaining healthy eating habits is crucial for a <strong>balanced lifestyle</strong>. Even with a busy schedule, you can make time for nutritious meals. <a href='https://example.com/healthy-recipes' target='_blank'>Try these recipes</a> that are both quick and delicious. <br/> Focus on whole grains, fresh fruits, and lean proteins. Plan your meals ahead to avoid unhealthy choices. <strong>Consistency</strong> is key to achieving your health goals!",
         "author": {
           "name": "Michael Brown",
           "image": "https://example.com/michael-brown.jpg",
@@ -443,7 +443,7 @@
         "id": "26",
         "title": "The Joy of Learning a New Language",
         "slug": "joy-of-learning-language",
-        "content": "Learning a new language is a rewarding <strong>journey</strong> that opens doors to new cultures and opportunities. <a href='https://example.com/language-tools'>Explore language tools</a> to get started. <br/> Practice daily, immerse yourself in the language, and don't fear making mistakes. Consistent effort and a positive attitude will lead to progress. <br/> Connect with native speakers, watch foreign films, and enjoy the <strong>process</strong> of learning!",
+        "content": "Learning a new language is a rewarding <strong>journey</strong> that opens doors to new cultures and opportunities. <a href='https://example.com/language-tools' target='_blank'>Explore language tools</a> to get started. <br/> Practice daily, immerse yourself in the language, and don't fear making mistakes. Consistent effort and a positive attitude will lead to progress. <br/> Connect with native speakers, watch foreign films, and enjoy the <strong>process</strong> of learning!",
         "author": {
           "name": "Anna Johnson",
           "image": "https://example.com/anna-johnson.jpg",
