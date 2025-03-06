@@ -1,19 +1,10 @@
 [
   {
     "id": "1",
-    "title": "Annual Charity Gala",
-    "date": "2024-03-15",
-    "location": "City Convention Center",
-    "description": "Join us for our annual fundraising gala...",
-    "image": "/images/events/charity-gala.jpg",
-    "link": "https://www.google.com"
-  },
-  {
-    "id": "2",
     "title": "তারুণ্যের উৎসব-২০২৫",
     "date": "2025-02-20",
     "location": "Academic Building-03",
-    "description": "Help us keep our community clean and green.",
+    "description": "'এসো দেশ বদলাই, পৃথিবী বদলাই' প্রতিপাদ্যে নতুন বাংলাদেশ গড়ার লক্ষ্যে শুরু হয়েছে তারুণ্যের উৎসব।",
     "image": "https://i.ibb.co.com/Gv7fLvpR/IMG-20250219-WA0012.jpg"
   }
 ]
