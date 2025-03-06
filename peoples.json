@@ -1,0 +1,82 @@
+[
+    {
+      "id": "1",
+      "name": "John Doe",
+      "designation": "Software Engineer",
+      "session": "2015-2016",
+      "dept": "Computer Science",
+      "image": "john_doe.jpg",
+      "hall": "Newton Hall",
+      "quotes": "Code is poetry."
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "designation": "Data Scientist",
+      "session": "2016-2017",
+      "dept": "Statistics",
+      "image": "jane_smith.jpg",
+      "hall": "Einstein Hall",
+      "quotes": "Data is the new oil."
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "designation": "Product Manager",
+      "session": "2017-2018",
+      "dept": "Business Administration",
+      "image": "alice_johnson.jpg",
+      "hall": "Darwin Hall",
+      "quotes": "Simplicity is the ultimate sophistication."
+    },
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "designation": "UX Designer",
+      "session": "2018-2019",
+      "dept": "Design",
+      "image": "bob_brown.jpg",
+      "hall": "Tesla Hall",
+      "quotes": "Design is not just what it looks like, but how it works."
+    },
+    {
+      "id": "5",
+      "name": "Charlie Davis",
+      "designation": "DevOps Engineer",
+      "session": "2019-2020",
+      "dept": "Information Technology",
+      "image": "charlie_davis.jpg",
+      "hall": "Edison Hall",
+      "quotes": "Automate everything."
+    },
+    {
+      "id": "6",
+      "name": "Eve White",
+      "designation": "Cybersecurity Analyst",
+      "session": "2020-2021",
+      "dept": "Cyber Security",
+      "image": "eve_white.jpg",
+      "hall": "Curie Hall",
+      "quotes": "Security is a process, not a product."
+    },
+    {
+      "id": "7",
+      "name": "Frank Wilson",
+      "designation": "AI Researcher",
+      "session": "2021-2022",
+      "dept": "Artificial Intelligence",
+      "image": "frank_wilson.jpg",
+      "hall": "Hawking Hall",
+      "quotes": "The future is AI."
+    },
+    {
+      "id": "8",
+      "name": "Grace Lee",
+      "designation": "Mobile Developer",
+      "session": "2022-2023",
+      "dept": "Software Engineering",
+      "image": "grace_lee.jpg",
+      "hall": "Lovelace Hall",
+      "quotes": "Think different."
+    }
+  ]
